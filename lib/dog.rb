@@ -8,8 +8,6 @@ class Dog
     @@all << self 
   end 
   
- Dog.all 
- 
 end 
 
 
